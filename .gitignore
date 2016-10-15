@@ -1,0 +1,13 @@
+a.out
+*.obj
+a.exe
+*/a.exe
+skullhunter
+skullhunter.exe
+*/skullhunter.exe
+distrib
+errors.log
+error.log
+*/errors.log
+*/error.log
+skullhunter.*
